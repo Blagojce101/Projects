@@ -1,0 +1,42 @@
+.customModal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 330px;
+  transform: translate(-50%, -50%);
+  border: 1px solid #3c191380;
+  border-top-left-radius: 32px;
+  border-bottom-right-radius: 32px;
+  padding: 12px 10px 12px 10px;
+  color: #3c1913;
+}
+
+.font {
+  color: #3c1913;
+  font-size: 20px;
+  font-family: "Amulya";
+  font-weight: 500;
+  line-height: 24px;
+  word-wrap: "break-word";
+}
+
+.addToCartBtn {
+  width: 200px;
+  height: 44px;
+  background: #9b4923;
+  border-top-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  overflow: "hidden";
+  justify-content: "center";
+  align-items: "center";
+  display: "inline-flex";
+}
+
+.continueFont {
+  color: #3c1913;
+  font-size: 18px;
+  font-family: "Amulya";
+  font-weight: 700;
+  line-height: 20px;
+  word-wrap: "break-word";
+}

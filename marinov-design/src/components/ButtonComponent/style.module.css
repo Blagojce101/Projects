@@ -1,0 +1,17 @@
+/* .ButtonBrwn {
+    width: 100%;
+    z-index: 1;
+}
+.ButtonBrwn button{
+  width: 130px;
+  height: 44px;
+  padding: 12px 20px;
+  border-radius: 16px 0px 16px 0px;
+  border: 2px solid #9b4923;
+  background-color: inherit;
+}
+.ButtonBrwn button:hover{
+  box-shadow: 5px 4px 8px 0px rgba(0,0,0,0.75);
+  border-radius: 20px 0px 16px 0px;
+  border: 2px solid #58e706;
+} */

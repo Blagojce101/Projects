@@ -1,0 +1,68 @@
+.sticky {
+  position: fixed;
+  top: 64px;
+  width: 100%;
+  z-index: 1000;
+}
+
+.counter {
+  padding: 12px 10px 12px 10px;
+  border: 1px solid #3c191380;
+  border-top-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+}
+
+.borderRight {
+  padding-right: 5px;
+  border-right: 1px solid #3c191380 !important;
+}
+
+.borderLeft {
+  padding-left: 5px;
+  border-left: 1px solid #3c191380 !important;
+}
+
+.titleFont {
+  color: #3c1913;
+  font-size: 24px;
+  font-family: "Amulya";
+  font-weight: 600;
+  line-height: 32px;
+  word-wrap: "break-word";
+}
+
+.priceFont {
+  color: #9b4923;
+  font-size: 24px;
+  font-family: "Amulya";
+  font-weight: 500;
+  line-height: 32px;
+  word-wrap: "break-word";
+}
+
+.font {
+  color: #3c1913;
+  font-size: 17px;
+  font-family: "Amulya";
+  font-weight: 400;
+  line-height: 24px;
+  word-wrap: "break-word";
+}
+
+.liStyle {
+  list-style: circle;
+}
+
+.loadMoreBtn {
+  border: 0px;
+  color: #9b4923;
+  font-size: 18px;
+  font-family: "Amulya";
+  font-weight: 700;
+  line-height: 20px;
+  word-wrap: "break-word";
+}
+
+.list {
+  padding: 24px 48px;
+}

@@ -1,0 +1,168 @@
+@media (max-width:2560px){
+    .Header {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      background-color: white;
+      position: fixed;
+      align-items: center;
+      font-family: 'Cabinet Grotesk', sans-serif;
+      z-index: 1000;
+  }
+  .LogoDiv{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+  .LogoScroll{
+      width: 62px;
+      height: auto;
+      margin-bottom: 13px;
+      display: block;
+      transition: opacity 0.5s ease; 
+      padding-top: 16px;
+  }
+  .Cart{
+    padding: 16px;
+  }
+  .Burger{
+      display: none;
+  }
+    
+    .LogoScrollVisible {
+      display: none;
+    }
+    .Ul{
+      color: #3C1913;
+      display: flex;
+      margin-left: 120px;
+    }
+    .Ul li{
+      padding: 10px;
+      font-weight: 600;
+      font-size: 16px;
+    }
+  }
+  
+  @media (max-width:1024px){
+
+    .Ul{
+      color: #3C1913;
+      display: flex;
+      margin-left: 0;
+ 
+  }
+}
+
+@media (max-width:768px){
+  .Header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    position: fixed;
+    align-items: center;
+    font-family: 'Cabinet Grotesk', sans-serif;
+    z-index: 1000;
+}
+.LogoDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.LogoScroll{
+    width: 62px;
+    height: auto;
+    margin-bottom: 13px;
+    display: block;
+    transition: opacity 0.5s ease; 
+    padding-top: 16px;
+}
+.Burger, .Cart{
+    padding: 16px;
+}
+.Burger{
+  display: flex;
+}
+  
+  .LogoScrollVisible {
+    display: none;
+  }
+  .Ul{
+    position: absolute;
+    background-color: white;
+    color: #3C1913;
+    box-shadow: 8px 16px 24px rgba(165, 42, 42, 0.16);
+    top: 100%;
+    display: none;
+    width: 40%;
+  }
+  .UlOpen{
+    display: block;
+  }
+  .Ul li{
+    padding: 10px;
+    padding-left: 20px;
+    font-weight: 600;
+  }
+  .Ul li:first-child {
+    padding-top: 0;
+  }
+}
+
+
+@media (max-width:425px){
+  .Header {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      background-color: white;
+      position: fixed;
+      align-items: center;
+      font-family: 'Cabinet Grotesk', sans-serif;
+      z-index: 1000;
+  }
+  .LogoDiv{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+  }
+  .LogoScroll{
+      width: 62px;
+      height: auto;
+      margin-bottom: 13px;
+      display: block;
+      transition: opacity 0.5s ease; 
+      padding-top: 16px;
+  }
+  .Burger, .Cart{
+      padding: 16px;
+  }
+  .Burger{
+    display: flex;
+  }
+    
+    .LogoScrollVisible {
+      display: none;
+    }
+    .Ul{
+      position: absolute;
+      background-color: white;
+      color: #3C1913;
+      box-shadow: 8px 16px 24px rgba(165, 42, 42, 0.16);
+      top: 100%;
+      display: none;
+      width: 40%;
+    }
+    .UlOpen{
+      display: block;
+    }
+    .Ul li{
+      padding: 10px;
+      padding-left: 20px;
+      font-weight: 600;
+    }
+    .Ul li:first-child {
+      padding-top: 0;
+    }
+}

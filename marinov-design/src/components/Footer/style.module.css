@@ -1,0 +1,66 @@
+@media (max-width:376px){
+
+.Footer{
+    width: 375px;
+    font-family: 'Amulya', sans-serif;
+    background-color: white;
+}
+.FooterTop{
+    position: relative;
+}
+.FooterLogo{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+}
+.LinkToOurStory{
+    position: absolute;
+    bottom: 2%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-decoration: underline;
+    line-height: 20px;
+    background-color: transparent;
+}
+.FooterContent{
+    margin: 40px 24px;
+}
+.LogoType{
+    margin-bottom: 40px;
+}
+.Title{
+    color: #394E49;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-between;
+    margin: 12px 0;
+}
+.Subtitle{
+    color: #394E49;
+}
+.Subtitle ul li {
+    padding: 8px 0;
+    line-height: 26px;
+}
+.Subtitle ul li:first-child{
+    padding-top: 0;
+}
+.Subtitle p{
+    margin: 12px 0;
+}
+.Subtitle p:last-child{
+    margin-bottom: 0;
+}
+.SocialMedia img{
+    margin: 28px 16px 40px;
+}
+.SocialMedia img:first-child{
+    margin-left: 0;
+}
+.Copyright{
+    padding: 40px 0;
+    color: #394E49;
+}
+}

@@ -1,0 +1,16 @@
+.ScrollBar {
+  background: #1c1a1b;
+  position: fixed;
+  z-index: 1;
+  width: 48px;
+  height: 48px;
+  border-radius: 16px 0px 16px 0px;
+  opacity: 0.8;
+  color: white;
+  top: 50%;
+  left: 85%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+}

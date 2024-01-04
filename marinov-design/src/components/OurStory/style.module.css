@@ -1,0 +1,218 @@
+@media (max-width:376px){
+
+.OurStory{
+    width: 375px;
+    background-color: #FBFAF8;
+    padding-top: 84px;
+    color: #3C1913;
+    font-family: 'Cabinet Grotesk', sans-serif;
+}
+.Container{
+    margin: 0 16px;
+    background-color: transparent;
+}
+.Container h1{
+    padding-top: 80px;
+    margin-bottom: 8px;
+    background-color: transparent;
+}
+.Container h5{
+    font-size: 48px;
+    font-style: normal;
+    line-height: 56px;  
+    margin-top: 101px;
+    padding-bottom: 16px;
+    background-color: transparent;
+}
+.Container p{
+    font-size: 24px;
+    font-style: normal;
+    line-height: 38px;
+    color: #3C1913;
+    margin-top: 8px;
+    background-color: transparent;
+}
+.Container p b{
+    background-color: transparent;
+}
+.CopperPotDiv{
+    height: 400px;
+    background-color: #FBFAF8;
+}
+.CopperPot{
+    width: 272px;
+    height: auto;
+    position: absolute;
+    right: 0;
+    top: 28%;
+    z-index: 100;
+    background-color: transparent;
+}
+.OhridImg{
+    width: 375px;
+    position: absolute;
+    left: 0;
+    top: 60%;
+    z-index: 99;
+    background-color: transparent;
+}
+.CopperAgingDiv{
+    width: 375px;
+    height: 1600px;
+    margin-top: -170px;
+    background: url("../../../public/images/OURSTORYIMAGES/copper\ aging.jpg"), lightgray 50% / cover no-repeat;
+    position: relative;
+}
+.CopperAgingDiv h5{
+    padding-top: 100px;
+    color: #FBFAF8;
+    text-shadow: -2px 4px 8px rgba(28, 26, 27, 0.25);
+    font-size: 46px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+    margin: 0 16px;
+    background-color: transparent;
+}
+.CopperAgingDiv h5:nth-child(2){
+    position: absolute;
+    bottom: 13%;
+    text-align: end;
+    margin-bottom: 32px;
+    background-color: transparent;
+}
+.CopperAgingDiv p{
+    position: absolute;
+    bottom: 0;
+    color: #FBFAF8;
+    text-align: right;
+    text-shadow: -2px 4px 8px rgba(28, 26, 27, 0.25);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 38px;
+    margin: 0 16px;
+    margin-bottom: 32px;
+    background-color: transparent;
+}
+.BeltDiv{
+    position: relative;
+    height: 300px;
+    background-color: transparent;
+}
+.Belt{
+    position: absolute;
+    top: -30%;
+    right: 0;
+    background-color: transparent;
+}
+.Paragraph{
+    text-align: end;
+    background-color: transparent;
+}
+.SlaveAndHelmet{
+    position: relative;
+    height: 600px;
+    background-color: transparent;
+}
+.Slave{
+    width: 235px;
+    position: absolute;
+    left: 20%;
+    top: 5%;
+    background-color: transparent;
+}
+.Helmet{
+    width: 401px;
+    position: absolute;
+    top: 60%;
+    right: -80%;
+    transform: translate(-50%, -50%);
+    background-color: transparent;
+}
+.Decoration{
+    background-color: transparent;
+}
+.RingDiv{
+    position: relative;
+    height: 300px;
+    background-color: transparent;
+}
+.Ring{
+    width: 350px;
+    height: 267;
+    position: absolute;
+    right: -15%;
+    background-color: transparent;
+}
+.BraceletDiv{
+    position: relative;
+    height: 500px;
+    background-color: transparent;
+}
+.Bracelet{
+    position: absolute;
+    width: 372.991px;
+    height: 451.781px;
+    transform: rotate(24.237deg);
+    flex-shrink: 0;
+    right: -15%;      
+    background-color: transparent;  
+}
+
+.SmallFontParagraph{
+    font-family: 'Amulya', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+}
+.SmallFontParagraph:last-child{
+    width: 55%;
+    position: absolute;
+    z-index: 100000;
+}
+.WallBackground{
+    position: relative;
+    margin-top: 100px;
+    width: 375px;
+    height: 1105px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, #FBFAF8 0%, rgba(251, 250, 248, 0.00) 18.37%), url("/images/OURSTORYIMAGES/wall background.jpg"), lightgray 50% / cover no-repeat;
+}
+.Certificate1{
+    width: 115px;
+    position: absolute;
+    right: 10%;
+    top: 15%;
+}
+.Certificate2{
+    width: 172px;
+    position: absolute;
+    left: 5%;
+    top: 25%;
+}
+.Certificate3{
+    width: 274px;
+    position: absolute;
+    right: 5%;
+    top: 40%;
+}
+.Certificate4{
+    width: 218px;
+    position: absolute;
+    left: 3%;
+    top: 59%;
+}
+.Certificate5{
+    width: 131px;
+    position: absolute;
+    right: 15%;
+    top: 75%;
+}
+.Carousel{
+    margin-bottom: 50px;
+}
+
+}
+

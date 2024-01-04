@@ -1,0 +1,27 @@
+.plus {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.collapseContent {
+  padding: 20px 25px;
+}
+
+.questionFont {
+  color: #3c1913;
+  font-size: 19px;
+  font-family: "Amulya";
+  font-weight: "500";
+  line-height: 20px;
+  word-wrap: "break-word";
+}
+
+.answerFont {
+  color: black;
+  font-size: 15px;
+  font-family: "Amulya";
+  font-weight: "500";
+  line-height: 20px;
+  word-wrap: "break-word";
+}

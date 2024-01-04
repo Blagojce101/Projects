@@ -1,0 +1,1700 @@
+{
+
+    "translations": {
+      
+      "en": {
+        "firstSection": {
+          "title": "Unique Handcrafted Jewelry",
+          "description": "Explore our unique handcrafted jewelry collection."
+        },
+        "secondSection": {
+          "title": "Custom Made Orders",
+          "description": "Place your custom orders and create something unique."
+        },
+        "thirdSection": {
+          "title": "Exceptional Home Decor",
+          "description": "Discover exceptional home decor items for your space."
+        }
+      },
+
+      "mk": {
+        "firstSection": {
+          "title": "Уникатен Рачно Изработен Накит",
+          "description": "Истражете нашата уникатна колекција на рачно изработен накит."
+        },
+        "secondSection": {
+          "title": "Порачки по Нарачка",
+          "description": "Поставете ги вашите порачки по ваш избор и креирајте нешто уникатно."
+        },
+        "thirdSection": {
+          "title": "Извонредна Домашна Декорација",
+          "description": "Откријте извонредни предмети за домашна декорација за вашиот простор."
+        }
+      }
+    },
+
+
+
+  "giftPrices": {
+    "choosePrice": "Одбери цена на подарок картичка",
+    "prices": [500, 1000, 1500, 2500, 3500, 4500, 6000]
+  },
+
+  "giftCards": {
+    "cards": [
+      {
+        "id": "1",
+        "title": "Сино Небо Фустани",
+        "img": "/giftImages/firstGiftCard.png",
+        "body": "Подарете ја оваа удобна и стилска маица во сино, идеална за секојдневни прилики или лежерни викенди.",
+        "postId": "1"
+      },
+      {
+        "id": "2",
+        "title": "Празнична Изненадување Картичка",
+        "img": "/giftImages/secondGiftCard.png",
+        "body": "Изненадете го некој со оваа мистериозна гифт картичка што носи вредност и можност за избор на совршен подарок.",
+        "postId": "1"
+      },
+      {
+        "id": "3",
+        "title": "Вечер под Ѕвездите",
+        "img": "/giftImages/firstGiftCard.png",
+        "body": "Оваа гифт картичка е вашиот избор за подарување на посебна вечер. Поклонете ја за незаборавни моменти.",
+        "postId": "1"
+      },
+      {
+        "id": "4",
+        "title": "Авантуристички Дух",
+        "img": "/giftImages/secondGiftCard.png"
+      },
+      {
+        "id": "5",
+        "title": "Гурманско Уживање",
+        "img": "/giftImages/thirdGiftCard.png"
+      }
+    ]
+  },
+  "gallery": [
+    {
+      "id": 1,
+      "imageUrl": "/images/CUSTOMORDERSIMAGES/custom gallery 1.jpg"
+    },
+    {
+      "id": 2,
+      "imageUrl": "/images/CUSTOMORDERSIMAGES/custom orders title.jpg"
+    },
+    {
+      "id": 3,
+      "imageUrl": "/images/CUSTOMORDERSIMAGES/custom gallery 3.jpg"
+    },
+    {
+      "id": 4,
+      "imageUrl": "/images/CUSTOMORDERSIMAGES/custom gallery 4.jpg"
+    },
+    {
+      "id": 5,
+      "imageUrl": "/images/CUSTOMORDERSIMAGES/custom gallery 5.jpg"
+    },
+    {
+      "id": 6,
+      "imageUrl": "/images/CUSTOMORDERSIMAGES/custom gallery 6.jpg"
+    },
+    {
+      "id": 7,
+      "imageUrl": "/images/CUSTOMORDERSIMAGES/custom gallery 7.jpg"
+    },
+    {
+      "id": 8,
+      "imageUrl": "/images/CUSTOMORDERSIMAGES/custom gallery 8.jpg"
+    }
+  ],
+
+  "ourstorycarousel": [
+    {
+      "id": 1,
+      "imageUrl": "/images/OURSTORYIMAGES/process carousel 1.jpg"
+    },
+    {
+      "id": 2,
+      "imageUrl": "/images/OURSTORYIMAGES/process carousel 2.jpg"
+    },
+    {
+      "id": 3,
+      "imageUrl": "/images/OURSTORYIMAGES/process carousel 3.jpg"
+    },
+    {
+      "id": 4,
+      "imageUrl": "/images/OURSTORYIMAGES/process carousel 4.jpg"
+    },
+    {
+      "id": 5,
+      "imageUrl": "/images/OURSTORYIMAGES/process carousel 5.jpg"
+    }
+  ],
+
+  "profile": [
+    {
+      "firstName": "Konstantin",
+      "lastName": "Vchkov",
+      "email": "konstantin.vchkov@gmail.com",
+      "password": "Izvorska!1",
+      "repeatPassword": "Izvorska!1",
+      "id": 1
+    }
+  ],
+
+  "products": [
+    {
+      "id": "1",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings11.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "name": "Copper Spiral & Black Beads Earrings",
+      "category": "Earrings",
+      "deliveryAdress": 150,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass", "faux pearl"],
+      "dimensions": ["approx. 7 cm"],
+      "weight": ["14 g (per pair)"],
+      "condition": "New",
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },
+    {
+      "id": "2",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings1.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "name": "Copper Spiral & Black Beads Earrings",
+      "category": "Earrings",
+      "deliveryAdress": 150,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass", "faux pearl"],
+      "dimensions": ["approx. 7 cm"],
+      "weight": ["14 g (per pair)"],
+      "condition": "New",
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },
+    {
+      "id": "3",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings7.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "name": "Copper Spiral & Black Beads Earrings",
+      "category": "Earrings",
+      "deliveryAdress": 150,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass", "faux pearl"],
+      "dimensions": ["approx. 7 cm"],
+      "weight": ["14 g (per pair)"],
+      "condition": "New",
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },
+    {
+      "id": "4",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings8.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "name": "Copper Spiral & Black Beads Earrings",
+      "category": "Earrings",
+      "deliveryAdress": 150,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass", "faux pearl"],
+      "dimensions": ["approx. 7 cm"],
+      "weight": ["14 g (per pair)"],
+      "condition": "New",
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },
+    {
+      "id": "5",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings5.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "category": "Rings",
+      "name": "Diamond Solitaire Ring",
+      "deliveryAdress": 150,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass", "faux pearl"],
+      "dimensions": ["approx. 7 cm"],
+      "weight": ["14 g (per pair)"],
+      "condition": "New",
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },
+    {
+      "id": "6",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings4.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "category": "Rings",
+      "name": "Diamond Solitaire Ring",
+      "deliveryAdress": 150,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass", "faux pearl"],
+      "dimensions": ["approx. 7 cm"],
+      "weight": ["14 g (per pair)"],
+      "condition": "New",
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },
+    {
+      "id": "7",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings6.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "category": "Rings",
+      "name": "Diamond Solitaire Ring",
+      "deliveryAdress": 150,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass", "faux pearl"],
+      "dimensions": ["approx. 7 cm"],
+      "weight": ["14 g (per pair)"],
+      "condition": "New",
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },
+    {
+      "id": "8",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "category": "Rings",
+      "name": "Diamond Solitaire Ring",
+      "deliveryAdress": 150,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass", "faux pearl"],
+      "dimensions": ["approx. 7 cm"],
+      "weight": ["14 g (per pair)"],
+      "condition": "New",
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },
+    {
+      "id": "9",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings2.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "category": "Necklaces",
+      "name": "Silver Heart Locket",
+      "deliveryAdress": 150,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass", "faux pearl"],
+      "dimensions": ["approx. 7 cm"],
+      "weight": ["14 g (per pair)"],
+      "condition": "New",
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },
+    {
+      "id": "10",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings4.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "category": "Necklaces",
+      "name": "Silver Heart Locket",
+      "deliveryAdress": 150,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass", "faux pearl"],
+      "dimensions": ["approx. 7 cm"],
+      "weight": ["14 g (per pair)"],
+      "condition": "New",
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },
+    {
+      "id": "11",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings1.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "category": "Necklaces",
+      "name": "Silver Heart Locket",
+      "deliveryAdress": 150,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass", "faux pearl"],
+      "dimensions": ["approx. 7 cm"],
+      "weight": ["14 g (per pair)"],
+      "condition": "New",
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },
+    {
+      "id": "12",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings8.jpg",
+        "/images/JEWELRYIMAGES/earrings6.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings7.jpg",
+        "/images/JEWELRYIMAGES/earrings2.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "category": "Necklaces",
+      "name": "Silver Heart Locket",
+      "deliveryAdress": 150,
+      "description": "Blending modern style with classic elegance, we introduce our Copper Spiral and White Beads Earrings. Crafted with precision, these earrings feature gracefully coiled copper spirals, adding a touch of contemporary flair. The pristine white beads suspended within the spirals bring a clean and timeless aesthetic to the design. Elevate your look with this understated yet captivating accessory, perfect for both casual and formal occasions.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass", "faux pearl"],
+      "dimensions": ["approx. 7 cm"],
+      "weight": ["14 g (per pair)"],
+      "condition": "New",
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },
+
+    {
+      "id": "13",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings1.jpg",
+        "/images/JEWELRYIMAGES/earrings2.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings5.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "category": "Bracelets",
+      "name": "Charm Bracelet",
+      "deliveryAdress": 150,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass"],
+      "dimensions": ["24 x 36 cm"],
+      "weight": ["3.4kg"],
+      "condition": "New",
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },
+    {
+      "id": "14",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings11.jpg",
+        "/images/JEWELRYIMAGES/earrings12.jpg",
+        "/images/JEWELRYIMAGES/earrings4.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "category": "Bracelets",
+      "name": "Charm Bracelet",
+      "deliveryAdress": 150,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass"],
+      "dimensions": ["24 x 36 cm"],
+      "weight": ["3.4kg"],
+      "condition": "New",
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },
+    {
+      "id": "15",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings2.jpg",
+        "/images/JEWELRYIMAGES/earrings6.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings9.jpg",
+        "/images/JEWELRYIMAGES/earrings11.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "category": "Bracelets",
+      "name": "Charm Bracelet",
+      "deliveryAdress": 150,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass"],
+      "dimensions": ["24 x 36 cm"],
+      "weight": ["3.4kg"],
+      "condition": "New",
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },
+    {
+      "id": "16",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings4.jpg",
+        "/images/JEWELRYIMAGES/earrings2.jpg",
+        "/images/JEWELRYIMAGES/earrings1.jpg",
+        "/images/JEWELRYIMAGES/earrings8.jpg",
+        "/images/JEWELRYIMAGES/earrings9.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "category": "Bracelets",
+      "name": "Cuff Bracelet",
+      "deliveryAdress": 150,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass"],
+      "dimensions": ["24 x 36 cm"],
+      "weight": ["3.4kg"],
+      "condition": "New",
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },
+    {
+      "id": "17",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings1.jpg",
+        "/images/JEWELRYIMAGES/earrings2.jpg",
+        "/images/JEWELRYIMAGES/earrings3.jpg",
+        "/images/JEWELRYIMAGES/earrings4.jpg",
+        "/images/JEWELRYIMAGES/earrings5.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "name": "Copper Helmet - Large",
+      "category": "Helmets",
+      "deliveryAdress": 150,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass"],
+      "dimensions": ["24 x 36 cm"],
+      "weight": ["3.4kg"],
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    }
+  ],
+  "products_home_decor":[
+    {
+      "id": "18",
+      "images": [
+        "/images/HomeDecorPage/helmetlarge1.jpg",
+        "/images/HomeDecorPage/helmetlarge2.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "name": "Copper Helmet - Large",
+      "category": "Helmets",
+      "deliveryAdress": 150,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass"],
+      "dimensions": ["24 x 36 cm"],
+      "weight": ["3.4kg"],
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },{
+      "id": "19",
+      "images": [
+        "/images/HomeDecorPage/helmetmedium.jpg",
+        "/images/HomeDecorPage/helmetsmall.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "name": "Vintage Copper Helmet",
+      "category": "Helmets",
+      "deliveryAdress": 150,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass"],
+      "dimensions": ["24 x 36 cm"],
+      "weight": ["3.4kg"],
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },{
+      "id": "20",
+      "images": [
+        "/images/HomeDecorPage/helmetmedium.jpg",
+        "/images/HomeDecorPage/helmetsmall.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "name": "Classic Brass Helmet",
+      "category": "Helmets",
+      "deliveryAdress": 150,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass"],
+      "dimensions": ["24 x 36 cm"],
+      "weight": ["3.4kg"],
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },{
+      "id": "21",
+      "images": [
+        "/images/HomeDecorPage/helmetmedium.jpg",
+        "/images/HomeDecorPage/helmetsmall.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "name": "Modern Gladiator Helmet",
+      "category": "Helmets",
+      "deliveryAdress": 150,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass"],
+      "dimensions": ["24 x 36 cm"],
+      "weight": ["3.4kg"],
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },{
+      "id": "22",
+      "images": [
+        "/images/JEWELRYIMAGES/earrings5.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "name": "Ancient Warrior Helmet",
+      "category": "Helmets",
+      "deliveryAdress": 150,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass"],
+      "dimensions": ["24 x 36 cm"],
+      "weight": ["3.4kg"],
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },{
+      "id": "23",
+      "images": [
+        "/images/HomeDecorPage/helmetlarge1.jpg",
+        "/images/HomeDecorPage/helmetlarge2.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "name": "Renaissance Helmet Replica",
+      "category": "Helmets",
+      "deliveryAdress": 150,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass"],
+      "dimensions": ["24 x 36 cm"],
+      "weight": ["3.4kg"],
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },{
+      "id": "24",
+      "images": [
+        "/images/HomeDecorPage/helmetlarge2.jpg",
+        "/images/HomeDecorPage/helmetlarge1.jpg",
+        "/images/HomeDecorPage/helmetmedium.jpg",
+        "/images/HomeDecorPage/helmetsmall.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "name": "Copper Helmet - Large",
+      "category": "Helmets",
+      "deliveryAdress": 150,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass"],
+      "dimensions": ["24 x 36 cm"],
+      "weight": ["3.4kg"],
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },{
+      "id": "25",
+      "images": [
+        "/images/HomeDecorPage/helmetlarge2.jpg",
+        "/images/HomeDecorPage/helmetlarge1.jpg",
+        "/images/HomeDecorPage/helmetmedium.jpg",
+        "/images/HomeDecorPage/helmetsmall.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "name": "Copper Helmet - Large",
+      "category": "Helmets",
+      "deliveryAdress": 150,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass"],
+      "dimensions": ["24 x 36 cm"],
+      "weight": ["3.4kg"],
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    },{
+      "id": "26",
+      "images": [
+        "/images/HomeDecorPage/helmetlarge2.jpg",
+        "/images/HomeDecorPage/helmetlarge1.jpg",
+        "/images/HomeDecorPage/helmetmedium.jpg",
+        "/images/HomeDecorPage/helmetsmall.jpg"
+      ],
+      "brand": "Pinc Partywear",
+      "name": "Copper Helmet - Large",
+      "category": "Helmets",
+      "deliveryAdress": 150,
+      "description": "Elevate your decor with our stunning Copper Helmet. Handcrafted to perfection, this exquisite piece combines artistry and heritage. Its lustrous surface and intricate detailing add a touch of timeless elegance to any space. A captivating blend of craftsmanship and style, this copper helmet is a statement piece that exudes sophistication.",
+      "price": 35.99,
+      "discount": "50%",
+      "material": ["Copper", "brass"],
+      "dimensions": ["24 x 36 cm"],
+      "weight": ["3.4kg"],
+      "odrzuvanje": [
+        {
+          "bold": "avoid moisture:",
+          "text": "Copper can tarnish when exposed to moisture. Remove your earrings before swimming, showering, or participating in activities that may involve water."
+        },
+        {
+          "bold": "store properly:",
+          "text": "Store your earrings in a dry place, away from humidity. Consider keeping them in a jewelry box or airtight container to prevent tarnishing."
+        },
+        {
+          "bold": "clean regularly:",
+          "text": "To maintain the shine of the copper, clean the earrings regularly with a soft, dry cloth. You can also use a jewelry polishing cloth specifically designed for copper."
+        },
+        {
+          "bold": "avoid chemicals:",
+          "text": "Keep your earrings away from chemicals such as perfumes, lotions, and hairsprays, as these can accelerate tarnishing. Put on your earrings after applying these products."
+        },
+        {
+          "bold": "gentle handling:",
+          "text": "Handle your earrings with care to prevent bending or misshaping of the copper wire. Avoid dropping them on hard surfaces."
+        },
+        {
+          "bold": "protect from scratches:",
+          "text": "When not in use, store your earrings separately from other jewelry to prevent scratches."
+        },
+        {
+          "bold": "check fastenings:",
+          "text": "Periodically check the earring fastenings to ensure they are secure. This is especially important for hook or latch-style earrings."
+        },
+        {
+          "bold": "avoid extreme temperatures:",
+          "text": "Keep your earrings away from extreme temperatures and direct sunlight, as these can affect the appearance of both the copper and beads."
+        }
+      ],
+      "tags": ["polo", "elegant", "durable"]
+    }
+  ],
+  "AboutUs": {
+    "aboutTitle": "Кои Сме Ние?",
+    "aboutText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, incidunt eligendi impedit voluptatum veritatis aliquid deleniti perspiciatis ipsa aut? Nulla, sequi, maiores possimus tempora praesentium provident expedita deleniti animi itaque voluptates alias sit aperiam corrupti, dolore at consectetur obcaecati laboriosam libero vero minus eum dolorem. Consequatur fuga nostrum, beatae, eos voluptas quas deleniti autem qui, ipsam sunt voluptatum minus adipisci facilis debitis voluptatibus molestiae dicta error repudiandae corrupti provident est alias aliquid excepturi officia. Voluptates ea sunt blanditiis nesciunt nemo recusandae adipisci nisi a molestiae dicta perspiciatis excepturi, explicabo nam suscipit doloribus? Provident earum sed nulla optio quaerat natus asperiores eos culpa officiis laboriosam obcaecati autem iste ab ipsam laudantium fugiat, excepturi facere explicabo. Voluptates a animi saepe in accusantium est neque dolor perspiciatis laboriosam! Ipsa obcaecati sint ipsam laudantium soluta cumque nemo. Provident aliquid excepturi maxime assumenda voluptatem expedita pariatur ad harum cupiditate tenetur nisi fuga fugit nulla, magni ullam? Vitae perspiciatis facere quas repudiandae quasi! Ad, veritatis dolorem! Quidem porro asperiores quod dolore sit dolorem vero molestiae accusamus voluptatem cupiditate unde libero, eligendi quia maxime adipisci fugiat eaque nesciunt?",
+    "img": "https://img.freepik.com/free-photo/young-beautiful-woman-pink-warm-sweater-natural-look-smiling-portrait-isolated-long-hair_285396-896.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699920000&semt=ais",
+    "aboutStoryTitle": "Ова е нашата историја:",
+    "aboutStoryText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, incidunt eligendi impedit voluptatum veritatis aliquid deleniti perspiciatis ipsa aut? Nulla, sequi, maiores possimus tempora praesentium provident expedita deleniti animi itaque voluptates alias sit aperiam corrupti, dolore at consectetur obcaecati laboriosam libero vero minus eum dolorem. Consequatur fuga nostrum, beatae, eos voluptas quas deleniti autem qui, ipsam sunt voluptatum minus adipisci facilis debitis voluptatibus molestiae dicta error repudiandae corrupti provident est alias aliquid excepturi officia. Voluptates ea sunt blanditiis nesciunt nemo recusandae adipisci nisi a molestiae dicta perspiciatis excepturi, explicabo nam suscipit doloribus? Provident earum sed nulla optio quaerat natus asperiores eos culpa officiis laboriosam obcaecati autem iste ab ipsam laudantium fugiat, excepturi facere explicabo. Voluptates a animi saepe in accusantium est neque dolor perspiciatis laboriosam! Ipsa obcaecati sint ipsam laudantium soluta cumque nemo. Provident aliquid excepturi maxime assumenda voluptatem expedita pariatur ad harum cupiditate tenetur nisi fuga fugit nulla, magni ullam? Vitae perspiciatis facere quas repudiandae quasi! Ad, veritatis dolorem! Quidem porro asperiores quod dolore sit dolorem vero molestiae accusamus voluptatem cupiditate unde libero, eligendi quia maxime adipisci fugiat eaque nesciunt?Consequatur fuga nostrum, beatae, eos voluptas quas deleniti autem qui, ipsam sunt voluptatum minus adipisci facilis debitis voluptatibus molestiae dicta error repudiandae corrupti provident est alias aliquid excepturi officia. Voluptates ea sunt blanditiis nesciunt nemo recusandae adipisci nisi a molestiae dicta perspiciatis excepturi, explicabo nam suscipit doloribus? Provident earum sed nulla optio quaerat natus asperiores eos culpa officiis laboriosam obcaecati autem iste ab ipsam laudantium fugiat, excepturi facere explicabo. Voluptates a animi saepe in accusantium est neque dolor perspiciatis laboriosam! Ipsa obcaecati sint ipsam laudantium soluta cumque nemo. Provident aliquid excepturi maxime assumenda voluptatem expedita pariatur ad harum cupiditate tenetur nisi fuga fugit nulla, magni ullam? Vitae perspiciatis facere quas repudiandae quasi! Ad, veritatis dolorem! Quidem porro asperiores quod dolore sit dolorem vero molestiae accusamus voluptatem cupiditate unde libero, eligendi quia maxime adipisci fugiat eaque nesciunt?",
+    "imgStory": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/2018/02/05115808/story.jpg",
+    "aboutWorkTitle": "Ова е се што имаме направено:",
+    "aboutWorkText": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, incidunt eligendi impedit voluptatum veritatis aliquid deleniti perspiciatis ipsa aut? Nulla, sequi, maiores possimus tempora praesentium provident expedita deleniti animi itaque voluptates alias sit aperiam corrupti, dolore at consectetur obcaecati laboriosam libero vero minus eum dolorem. Consequatur fuga nostrum, beatae, eos voluptas quas deleniti autem qui, ipsam sunt voluptatum minus adipisci facilis debitis voluptatibus molestiae dicta error repudiandae corrupti provident est alias aliquid excepturi officia. Voluptates ea sunt blanditiis nesciunt nemo recusandae adipisci nisi a molestiae dicta perspiciatis excepturi, explicabo nam suscipit doloribus? Provident earum sed nulla optio quaerat natus asperiores eos culpa officiis laboriosam obcaecati autem iste ab ipsam laudantium fugiat, excepturi facere explicabo. Voluptates a animi saepe in accusantium est neque dolor perspiciatis laboriosam! Ipsa obcaecati sint ipsam laudantium soluta cumque nemo. Provident aliquid excepturi maxime assumenda voluptatem expedita pariatur ad harum cupiditate tenetur nisi fuga fugit nulla, magni ullam? Vitae perspiciatis facere quas repudiandae quasi! Ad, veritatis dolorem! Quidem porro asperiores quod dolore sit dolorem vero molestiae accusamus voluptatem cupiditate unde libero, eligendi quia maxime adipisci fugiat eaque nesciunt?Consequatur fuga nostrum, beatae, eos voluptas quas deleniti autem qui, ipsam sunt voluptatum minus adipisci facilis debitis voluptatibus molestiae dicta error repudiandae corrupti provident est alias aliquid excepturi officia. Voluptates ea sunt blanditiis nesciunt nemo recusandae adipisci nisi a molestiae dicta perspiciatis excepturi, explicabo nam suscipit doloribus? Provident earum sed nulla optio quaerat natus asperiores eos culpa officiis laboriosam obcaecati autem iste ab ipsam laudantium fugiat, excepturi facere explicabo. Voluptates a animi saepe in accusantium est neque dolor perspiciatis laboriosam! Ipsa obcaecati sint ipsam laudantium soluta cumque nemo. Provident aliquid excepturi maxime assumenda voluptatem expedita pariatur ad harum cupiditate tenetur nisi fuga fugit nulla, magni ullam? Vitae perspiciatis facere quas repudiandae quasi! Ad, veritatis dolorem! Quidem porro asperiores quod dolore sit dolorem vero molestiae accusamus voluptatem cupiditate unde libero, eligendi quia maxime adipisci fugiat eaque nesciunt?",
+    "imgWork": "https://portret.digital/wp-content/uploads/2023/09/img_9013.jpeg"
+  },
+
+  "ContactUs": {
+    "PageTitle": "Контакт",
+    "images": "https://upload.wikimedia.org/wikipedia/commons/d/da/Campbell_County_Rockpile_Museum_gift_shop_in_Gillette%2C_Wyoming.jpg",
+    "title": "Игралиште Дебар Маало",
+    "subtitle": "Откриј ги нашите останати модни парчиња и колекции кои ги немаме изложено на нашата страна!",
+    "contactInfo": "Костурски Херои бр.6/14 Дебар Маало, Скопје",
+    "number": "Телефон за контакт:",
+    "mobNumber": "+ 389 078 380 406",
+    "workTime": "Работно Време: Понеделник - Петок 12:00 - 19:00. Сабота 12:00 - 17:00"
+  },
+
+  "FAQ": {
+    "PageTitle": "Frequently Asked Questions",
+    "questionsAndAnswers": [
+      {
+        "id": "0",
+        "question": "How long does it take to make a custom piece?",
+        "answer": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi."
+      },
+      {
+        "id": "1",
+        "question": "Do you ship worldwide?",
+        "answer": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in?"
+      },
+      {
+        "id": "2",
+        "question": "Does copper jewelry leave stains?",
+        "answer": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Fugiat, consectetur exercitationem."
+      },
+      {
+        "id": "3",
+        "question": "How do I care for and maintain copper jewelry?",
+        "answer": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi. Fugiat, consectetur exercitationem."
+      },
+      {
+        "id": "4",
+        "question": "Is copper jewelry safe to wear?",
+        "answer": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in?"
+      },
+      {
+        "id": "5",
+        "question": "Are your products hypoallergenic?",
+        "answer": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Fugiat, consectetur exercitationem."
+      },
+      {
+        "id": "6",
+        "question": "How can I determine my ring size for copper rings?",
+        "answer": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi. Fugiat, consectetur exercitationem."
+      },
+      {
+        "id": "7",
+        "question": "Do you offer any warranties or guarantees on your products?",
+        "answer": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in?"
+      },
+      {
+        "id": "8",
+        "question": "What is the shipping and delivery process?",
+        "answer": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Fugiat, consectetur exercitationem."
+      },
+      {
+        "id": "9",
+        "question": "What payment methods do you accept?",
+        "answer": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi. Fugiat, consectetur exercitationem."
+      },
+      {
+        "id": "10",
+        "question": "Can I track my order once it's been shipped?",
+        "answer": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in?"
+      },
+      {
+        "id": "11",
+        "question": "What is your return and exchange policy?",
+        "answer": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Fugiat, consectetur exercitationem."
+      },
+      {
+        "id": "12",
+        "question": "Do you offer gift wrapping or packaging options?",
+        "answer": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi. Fugiat, consectetur exercitationem."
+      }
+    ]
+  },
+
+  "brands": [
+    {
+      "id": 1,
+      "brandName": "PincPartywear",
+      "brandAnswer": "Velit id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in?",
+      "brandImage": "https://onecms-res.cloudinary.com/images/upload/s--a04qSXI0--/c_crop,h_1125,w_1500,x_0,y_1/c_fill,g_auto,h_622,w_830/f_auto,q_auto/v1/mediacorp/cna/images/2023/07/14/how-do-you-shop-for-vintage-clothings_Frecklesaisvintage%20and%20Huntstreet.png?itok=3oKskHHZ",
+      "brandConcept": "Pink Partywear се базира врз основа на неколку прашања:",
+      "brandDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi. Fugiat, consectetur exercitationem."
+    },
+    {
+      "id": 2,
+      "brandName": "Factory Girl",
+      "brandImage": "https://cdn.shopify.com/s/files/1/0305/7100/4043/files/Vintage_Fashion_Style_1024x1024.jpg?v=1654538650",
+      "brandConcept": "Factory Girl се базира врз основа на неколку прашања:",
+      "brandAnswer": "Velit id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in?",
+      "brandDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi. Fugiat, consectetur exercitationem."
+    },
+    {
+      "id": 3,
+      "brandName": "Main Days",
+      "brandImage": "https://cdn.cliqueinc.com/posts/281395/everyday-italian-fashion-281395-1698437138703-main.700x0c.jpg",
+      "brandConcept": "Main Days се базира врз основа на неколку прашања:",
+      "brandAnswer": "Velit id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in?",
+      "brandDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi. Fugiat, consectetur exercitationem."
+    },
+    {
+      "id": 4,
+      "brandName": "Нежно",
+      "brandImage": "https://inthewash.co.uk/wp-content/uploads/2017/10/Delicate-materials.jpg",
+      "brandConcept": "Нежно се базира врз основа на неколку прашања:",
+      "brandAnswer": "Velit id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in?",
+      "brandDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi. Fugiat, consectetur exercitationem."
+    },
+    {
+      "id": 5,
+      "brandName": "Ред",
+      "brandConcept": "Ред се базира врз основа на неколку прашања:",
+      "brandAnswer": "Velit id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in?",
+      "brandImage": "https://cdn.vox-cdn.com/thumbor/rFI2aCZ1BwcL4wLJ159v720k7_I=/0x177:2121x1238/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/9934399/GettyImages_118993965.jpg",
+      "brandDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi. Fugiat, consectetur exercitationem."
+    },
+    {
+      "id": 6,
+      "brandName": "Наш",
+      "brandConcept": "Наш се базира врз основа на неколку прашања:",
+      "brandAnswer": "Velit id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in?",
+      "brandImage": "https://people.com/thmb/k6PDVhcuu7CtqigpeN8Tll7NT04=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Best-Cooling-Clothes-on-Amazon-of-2023-tout-02cbad36896540c4b949106f0f6ba43b.jpg",
+      "brandDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi. Fugiat, consectetur exercitationem."
+    },
+    {
+      "id": 7,
+      "brandName": "Зш да не",
+      "brandConcept": "Зш да не се базира врз основа на неколку прашања:",
+      "brandImage": "https://i.ibb.co/6sL5RF8/zshdane-1.png",
+      "brandAnswer": "Velit id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in?",
+      "brandDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi. Fugiat, consectetur exercitationem."
+    },
+    {
+      "id": 8,
+      "brandName": "Fraeil",
+      "brandConcept": "Fraeil се базира врз основа на неколку прашања:",
+      "brandAnswer": "Velit id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in?",
+      "brandImage": "https://www.thespruce.com/thmb/tafFWeEWcJqDsj4rRybGfYwvSmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/wash-new-clothes-before-wearing-2146345-03-999483b3d51a435ba53c8d9ef5c2d5c4.jpg",
+      "brandDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi. Fugiat, consectetur exercitationem."
+    },
+    {
+      "id": 9,
+      "brandName": "Urma",
+      "brandConcept": "Urma се базира врз основа на неколку прашања:",
+      "brandAnswer": "Velit id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in?",
+      "brandImage": "https://cdn.vox-cdn.com/thumbor/rFI2aCZ1BwcL4wLJ159v720k7_I=/0x177:2121x1238/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/9934399/GettyImages_118993965.jpg",
+      "brandDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi. Fugiat, consectetur exercitationem."
+    },
+    {
+      "id": 10,
+      "brandName": "Candle nest",
+      "brandConcept": "Candle nest се базира врз основа на неколку прашања:",
+      "brandAnswer": "Velit id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in?",
+      "brandImage": "https://cdn.shopify.com/s/files/1/0305/7100/4043/files/Vintage_Fashion_Style_1024x1024.jpg?v=1654538650",
+      "brandDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi. Fugiat, consectetur exercitationem."
+    },
+    {
+      "id": 11,
+      "brandName": "Beyond green",
+      "brandConcept": "Beyond green се базира врз основа на неколку прашања:",
+      "brandAnswer": "Velit id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in?",
+      "brandImage": "https://cdn.vox-cdn.com/thumbor/rFI2aCZ1BwcL4wLJ159v720k7_I=/0x177:2121x1238/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/9934399/GettyImages_118993965.jpg",
+      "brandDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi. Fugiat, consectetur exercitationem."
+    },
+    {
+      "id": 12,
+      "brandName": "Gatta",
+      "brandConcept": "Gatta се базира врз основа на неколку прашања:",
+      "brandAnswer": "Velit id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in?",
+      "brandImage": "https://people.com/thmb/k6PDVhcuu7CtqigpeN8Tll7NT04=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Best-Cooling-Clothes-on-Amazon-of-2023-tout-02cbad36896540c4b949106f0f6ba43b.jpg",
+      "brandDescription": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque maiores eos asperiores optio suscipit itaque ex explicabo, velit aut ut voluptas aliquam molestias aperiam, consequatur maxime, id sint quisquam omnis cupiditate fugiat aliquid doloremque dignissimos tempora in? Inventore iste vel culpa laborum doloribus rem alias cumque modi. Fugiat, consectetur exercitationem."
+    }
+  ]
+}

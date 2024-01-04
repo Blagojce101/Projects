@@ -1,0 +1,18 @@
+.disabled {
+  background-color: dimgrey;
+  color: linen;
+  opacity: 1;
+}
+.unable {
+  background-color: #3c1913;
+  color: linen;
+  opacity: 1;
+}
+.inputNoSpinButton {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.inputNumber {
+  -moz-appearance: textfield;
+}
+

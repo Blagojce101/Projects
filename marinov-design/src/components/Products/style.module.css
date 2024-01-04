@@ -1,0 +1,76 @@
+.MainProductsPage {
+  width: 375px;
+  padding-top: 90px;
+}
+.ProductJewelryPage {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 0px auto;
+}
+.Product {
+  width: 180px;
+}
+.Product img {
+  width: 100%;
+}
+.infoSection {
+  padding: 8px 16px 8px 16px;
+  font-family: Amulya;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.Filters {
+  width: 375px;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+.Filters ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
+.ImgProducts{
+  width: 375px;
+}
+.ImgProducts img{
+  width: 100%;
+
+}
+.Filters ul li {
+  display: inline-block;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+.Filters::-webkit-scrollbar {
+  height: 10px;
+}
+.initialSearching {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin: 10px auto;
+  font-family: Amulya;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.inputSearch input {
+  padding: 15px 15px;
+  border: 1px solid #3c191380;
+  border-radius: 16px;
+  width: 200px;
+  height: 32px;
+}
+.SelectOption select {
+  width: 113px;
+  height: 32px;
+  border: none;
+}
