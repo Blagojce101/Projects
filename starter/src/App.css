@@ -1,0 +1,148 @@
+body {
+  margin-top: 56px;
+  width: 100%;
+}
+
+.header-down {
+  background-color: #343a40;
+}
+
+.map {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  height: 90vh;
+}
+/* 
+.map {
+  width: 100%;
+  height: 90vh;
+  position: relative;
+  background: url("https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL21hcHMuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo4Mjh9LCJ0b0Zvcm1hdCI6ImF2aWYifX0=");
+  background-position: center;
+} */
+
+.rounded-button-container {
+  bottom: 43px;
+  position: absolute;
+}
+
+.display-none {
+  display: none;
+}
+
+.rounded-button {
+  font-size: 20px;
+  padding: 5px 10px;
+  background-color: #79b937;
+  border-radius: 50%;
+}
+
+.bg-green {
+  color: #79b937;
+}
+
+footer {
+  background-color: #525659;
+}
+
+.pop-up-no-user {
+  position: absolute;
+  top: 50%;
+  z-index: 999;
+
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+
+  width: 100%;
+  height: 350px;
+  background-color: #343a40;
+}
+.popupbutton {
+  border-radius: 10px;
+  padding: 8px 65px;
+}
+
+.image-profile {
+  background: url("https://www.retratosbarcelona.com/wp-content/uploads/2022/09/Retratos-Barcelona-Linkedin-Photo-Sydney.jpg");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.language-popup {
+  position: absolute;
+  width: 100%;
+  z-index: 222222;
+  top: 55%;
+  border-top-right-radius: 30px;
+  border-top-left-radius: 30px;
+  padding-top: 30px;
+  background: #525659;
+}
+
+.language-popup-down {
+  visibility: hidden;
+
+  height: 0;
+}
+
+.notification {
+  position: absolute;
+  font-size: 20px;
+  top: 20px;
+  right: 20px;
+}
+
+.report-filters {
+  box-shadow: 5px 5px 5px #343a40;
+  border: 1px solid black;
+  padding: 10px 10px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.photo-btn {
+  border: 1px solid black;
+  padding: 30px 20px;
+  border-radius: 15px;
+  box-shadow: 5px 5px 5px #4c4c4d;
+}
+
+.custom-button {
+  background-color: #79b937;
+  padding: 10px 70px;
+}
+
+.x-button {
+  border: 2px solid black;
+  border-radius: 8px;
+  padding: 12px 15px;
+}
+
+.last-conteiner {
+  margin-bottom: 110px;
+}
+
+.bg-img {
+  background: url("https://www.breeze-technologies.de/wp-content/uploads/2021/06/chris-leboutillier-TUJud0AWAPI-unsplash-1620x1080.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 150px;
+  border-radius: 10px;
+}
+
+.about-img {
+  background: url("https://eu-central-1.linodeobjects.com/media.mkd.mk/s3fs-public/2022-06/494159-graganite-se-gushat-vo-zagaden-vozdukh-vmro-dpmne-i-sdsm-se-prepukuvaat-koj-e-kriv.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 95vh;
+}
+
+.about-container {
+  padding-bottom: 50px;
+}
