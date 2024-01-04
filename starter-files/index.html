@@ -1,0 +1,895 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="./style/style.css" />
+    <title>Brainster Labs</title>
+  </head>
+  <body class="custom-bg-color">
+    <!-- Navbar -->
+    <div class="container-fluid custom-bg-color">
+      <nav class="navbar navbar-expand-lg py-4 w-90 custom-bg-color">
+        <a class="navbar-brand grow" href="./index.html"
+          ><img src="./img/Logo2.png" style="width: 60px" alt=""
+        /></a>
+        <button
+          class="navbar-toggler border-0 p-0 custom-btn-collapse"
+          data-toggle="collapse"
+          data-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="line-1"></span>
+          <span class="line-2"></span>
+          <span class="line-3"></span>
+        </button>
+
+        <div
+          class="collapse navbar-collapse custom-collapse-menu"
+          id="navbarSupportedContent"
+        >
+          <button
+            class="navbar-toggler custom-button custom-color-black"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <i class="fa-solid fa-xmark fa-2x"></i>
+          </button>
+          <ul class="navbar-nav m-auto">
+            <li class="nav-item mr-4">
+              <a
+                class="nav-link custom-color-black"
+                href="https://brainster.co/marketing/"
+                target="_blank"
+                >Академија за маркетинг</a
+              >
+            </li>
+            <li class="nav-item mr-4">
+              <a
+                class="nav-link custom-color-black"
+                href="https://brainster.co/front-end/"
+                target="_blank"
+                >Академија за програмирање</a
+              >
+            </li>
+            <li class="nav-item mr-4">
+              <a
+                class="nav-link custom-color-black"
+                href="https://brainster.co/data-science/"
+                target="_blank"
+                >Академија за data science</a
+              >
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link custom-color-black"
+                href="https://brainster.co/graphic-design/"
+                target="_blank"
+                >Академија за дизајн</a
+              >
+            </li>
+          </ul>
+          <button
+            class="btn btn-danger custom-btn-card my-2 px-4 my-sm-0 text-white"
+            type="submit"
+          >
+            <a href="./hirePage.html">Вработи наш студент</a>
+          </button>
+        </div>
+      </nav>
+    </div>
+    <!-- Navbar - End -->
+
+    <!-- First Section (Image Section) -->
+    <div class="container-fluid p-0 custom-bg-img">
+      <div>
+        <p
+          class="text-capitalize text-white custom-position font-weight font-weight-bold"
+        >
+          brainster labs
+        </p>
+      </div>
+    </div>
+    <!-- First Section (Image Section) - End -->
+
+    <!-- Secound Section (Cards & Filters) -->
+    <div class="custom-bg-color">
+      <div class="container-fluid">
+        <div class="row">
+          <div
+            class="active-marketing col-sm-12 col-md-4 p-0 custom-checkbox-style text-white border-right border-secondary text-left d-flex align-items-center justify-content-center"
+          >
+            <input type="checkbox" class="d-none" id="filter-marketing" />
+            <label
+              id="filter-marketing"
+              class="list px-5 py-4 m-0"
+              for="filter-marketing"
+              >Проекти на студенти на академијата за маркетинг</label
+            >
+            <i class="icon-1 d-none fa-solid fa-circle-check pr-4 fa-xl"></i>
+          </div>
+          <div
+            class="active-coding col-sm-12 col-md-4 p-0 custom-checkbox-style text-white border-right border-secondary text-left d-flex align-items-center justify-content-center"
+          >
+            <input type="checkbox" class="d-none" id="filter-coding" />
+            <label
+              id="filter-coding"
+              class="list px-5 py-4 m-0"
+              for="filter-coding"
+              >Проекти на студенти на академијата за програмирање</label
+            >
+            <i class="icon-2 d-none fa-solid fa-circle-check pr-4 fa-xl"></i>
+          </div>
+          <div
+            class="active-design col-sm-12 col-md-4 p-0 custom-checkbox-style text-white border-right border-secondary text-left d-flex align-items-center justify-content-center"
+          >
+            <input type="checkbox" class="d-none" id="filter-design" />
+            <label
+              id="filter-design"
+              class="list px-5 py-4 m-0"
+              for="filter-design"
+              >Проекти на студенти на академијата за дизајн</label
+            >
+            <i class="icon-3 d-none fa-solid fa-circle-check pr-4 fa-xl"></i>
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-12 text-center p-5 custom-text-color">
+            <p class="text text-capitalize font-weight-bold">проекти</p>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div
+            class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-marketing"
+          >
+            <div class="card border-0 marketing custom-shadow">
+              <img
+                src="./img/img marketing/marketing.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-start">
+                  <small class="bg-warning px-2 py-1 rounded"
+                    >Академијата за Маркетинг</small
+                  >
+                </p>
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-end">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-marketing"
+          >
+            <div class="card border-0 marketing custom-shadow">
+              <img
+                src="./img/img marketing/marketing-2.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-start">
+                  <small class="bg-warning px-2 py-1 rounded"
+                    >Академијата за Маркетинг</small
+                  >
+                </p>
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="custom-color-black font-weight-bold"
+                  >Април - 2023</small
+                >
+                <div class="d-flex justify-content-end">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-marketing"
+          >
+            <div class="card border-0 marketing custom-shadow">
+              <img
+                src="./img/img marketing/marketing-4.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-start">
+                  <small class="bg-warning px-2 py-1 rounded"
+                    >Академијата за Маркетинг</small
+                  >
+                </p>
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-end">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-marketing"
+          >
+            <div class="card border-0 marketing custom-shadow">
+              <img
+                src="./img/img marketing/marketing-3.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-start">
+                  <small class="bg-warning px-2 py-1 rounded"
+                    >Академијата за Маркетинг</small
+                  >
+                </p>
+
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-end">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-marketing"
+          >
+            <div class="card border-0 marketing custom-shadow">
+              <img
+                src="./img/img marketing/marketing-5.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-start">
+                  <small class="bg-warning px-2 py-1 rounded"
+                    >Академијата за Маркетинг</small
+                  >
+                </p>
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-end">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-marketing"
+          >
+            <div class="card border-0 marketing custom-shadow">
+              <img
+                src="./img/img marketing/marketing-6.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-start">
+                  <small class="bg-warning px-2 py-1 rounded"
+                    >Академијата за Маркетинг</small
+                  >
+                </p>
+
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-end">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-coding">
+            <div class="card border-0 coding custom-shadow">
+              <img
+                src="./img/img coding/coding-1.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-center">
+                  <small class="bg-success px-2 py-1 rounded"
+                    >Академијата за Програмирање</small
+                  >
+                </p>
+
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-center mt-2">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-coding">
+            <div class="card border-0 coding custom-shadow">
+              <img
+                src="./img/img coding/coding-2.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-center">
+                  <small class="bg-success px-2 py-1 rounded"
+                    >Академијата за Програмирање</small
+                  >
+                </p>
+
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-center mt-2">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-coding">
+            <div class="card border-0 coding custom-shadow">
+              <img
+                src="./img/img coding/coding-3.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-center">
+                  <small class="bg-success px-2 py-1 rounded"
+                    >Академијата за Програмирање</small
+                  >
+                </p>
+
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-center mt-2">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-coding">
+            <div class="card border-0 coding custom-shadow">
+              <img
+                src="./img/img coding/coding-4.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-center">
+                  <small class="bg-success px-2 py-1 rounded"
+                    >Академијата за Програмирање</small
+                  >
+                </p>
+
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-center mt-2">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-coding">
+            <div class="card border-0 coding custom-shadow">
+              <img
+                src="./img/img coding/coding-5.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-center">
+                  <small class="bg-success px-2 py-1 rounded"
+                    >Академијата за Програмирање</small
+                  >
+                </p>
+
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-center mt-2">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-coding">
+            <div class="card border-0 coding custom-shadow">
+              <img
+                src="./img/img coding/coding-1.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-center">
+                  <small class="bg-success px-2 py-1 rounded"
+                    >Академијата за Програмирање</small
+                  >
+                </p>
+
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-center mt-2">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-coding">
+            <div class="card border-0 coding custom-shadow">
+              <img
+                src="./img/img coding/coding-7.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-center">
+                  <small class="bg-success px-2 py-1 rounded"
+                    >Академијата за Програмирање</small
+                  >
+                </p>
+
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-center mt-2">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-coding">
+            <div class="card border-0 coding custom-shadow">
+              <img
+                src="./img/img coding/coding-8.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-center">
+                  <small class="bg-success px-2 py-1 rounded"
+                    >Академијата за Програмирање</small
+                  >
+                </p>
+
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-center mt-2">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-coding">
+            <div class="card border-0 coding custom-shadow">
+              <img
+                src="./img/img coding/coding-9.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-center">
+                  <small class="bg-success px-2 py-1 rounded"
+                    >Академијата за Програмирање</small
+                  >
+                </p>
+
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-center mt-2">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-coding">
+            <div class="card border-0 coding custom-shadow">
+              <img
+                src="./img/img coding/coding-10.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-center">
+                  <small class="bg-success px-2 py-1 rounded"
+                    >Академијата за Програмирање</small
+                  >
+                </p>
+
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-center mt-2">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-design">
+            <div class="card border-0 design custom-shadow">
+              <img
+                src="./img/img design/design-1.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-end">
+                  <small class="bg-warning px-2 py-1 rounded"
+                    >Академијата за Дизајн</small
+                  >
+                </p>
+
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-start mt-2">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-design">
+            <div class="card border-0 design custom-shadow">
+              <img
+                src="./img/img design/design-2.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-end">
+                  <small class="bg-warning px-2 py-1 rounded"
+                    >Академијата за Дизајн</small
+                  >
+                </p>
+
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-start mt-2">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-design">
+            <div class="card border-0 design custom-shadow">
+              <img
+                src="./img/img design/design-3.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-end">
+                  <small class="bg-warning px-2 py-1 rounded"
+                    >Академијата за Дизајн</small
+                  >
+                </p>
+
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-start mt-2">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6 col-sm-12 pb-4 cards custom-col-design">
+            <div class="card border-0 design custom-shadow">
+              <img
+                src="./img/img design/design-4.jpg"
+                style="
+                  background-position: center;
+                  background-repeat: no-repeat;
+                  background-size: cover;
+                "
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <p class="d-flex justify-content-end">
+                  <small class="bg-warning px-2 py-1 rounded"
+                    >Академијата за Дизајн</small
+                  >
+                </p>
+
+                <h5 class="card-title font-weight-bold">
+                  Име на проектот стои овде во две линии
+                </h5>
+                <p class="card-text">
+                  Краток опис во кој студентите ќе можат да опишат за што се
+                  работи во проектот.
+                </p>
+                <small class="font-weight-bold">Април - 2023</small>
+                <div class="d-flex justify-content-start mt-2">
+                  <a href="#" class="btn btn-danger custom-btn-card"
+                    >Дознај повеќе</a
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button class="btn load-more show-more-btn d-lg-none mb-3">
+        Прикажи повеќе
+      </button>
+    </div>
+    <!-- Secound Section (Cards & Filters) - End -->
+
+    <!-- Footer Section -->
+    <div class="container-fluid custom-bg-gray text-white">
+      <div class="row">
+        <div class="col-12 d-flex justify-content-center m-0 py-2">
+          <h6>
+            Изработено со <a class="custom-heart"> &#9829; </a> од Благоја.
+          </h6>
+        </div>
+      </div>
+    </div>
+    <!-- Footer Section - End -->
+  </body>
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+  <script src="./js/main.js"></script>
+</html>
