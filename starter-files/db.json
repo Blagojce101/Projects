@@ -1,0 +1,1188 @@
+{
+  "products": [
+    {
+      "id": "6c39f48f-987b-4dcc-8fe4-3a218b8cd277",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "pinc partywear",
+      "title": "Pinc Partywear Зелена кратка блуза",
+      "category": "блузи",
+      "price": 900,
+      "img": "/product-images/shirts/green-women-blouse-01.jpg",
+      "images": [
+        "/product-images/shirts/green-women-blouse-01.jpg",
+        "/product-images/shirts/green-women-blouse-02.jpg",
+        "/product-images/shirts/green-women-blouse-03.jpg",
+        "/product-images/shirts/green-women-blouse-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "S",
+      "color": "green",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/02/03"
+    },
+    {
+      "id": "40e32590-eac8-46a7-90df-1b51df4151b9",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "beyond green",
+      "price": 500,
+      "title": "Beyond green - црна блуза",
+      "category": "блузи",
+      "img": "/product-images/shirts/black-women-shirt-01.jpg",
+      "images": [
+        "/product-images/shirts/black-women-shirt-01.jpg",
+        "/product-images/shirts/black-women-shirt-02.jpg",
+        "/product-images/shirts/black-women-shirt-03.jpg",
+        "/product-images/shirts/black-women-shirt-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "L",
+      "color": "black",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/05/16"
+    },
+    {
+      "id": "40e32745-evc8-46f7-90gy-1b51cf5951b9",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "наш",
+      "price": 1000,
+      "title": "Наш - плава блуза",
+      "category": "блузи",
+      "img": "/product-images/shirts/blue-women-shirt-01.jpg",
+      "images": [
+        "/product-images/shirts/blue-women-shirt-01.jpg",
+        "/product-images/shirts/blue-women-shirt-02.jpg",
+        "/product-images/shirts/blue-women-shirt-03.jpg",
+        "/product-images/shirts/blue-women-shirt-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "L",
+      "color": "blue",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/10/18"
+    },
+    {
+      "id": "40x12745-hhs8-46f7-90cr-1b51kj5851b9",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "нежно",
+      "price": 1200,
+      "title": "Нежно - плава блуза",
+      "category": "блузи",
+      "img": "/product-images/shirts/purple-women-shirt-01.jpg",
+      "images": [
+        "/product-images/shirts/purple-women-shirt-01.jpg",
+        "/product-images/shirts/purple-women-shirt-02.jpg",
+        "/product-images/shirts/purple-women-shirt-03.jpg",
+        "/product-images/shirts/purple-women-shirt-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "L",
+      "color": "purple",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/01/25"
+    },
+    {
+      "id": "40g09745-j2s4-46f7-90cr-1b51bc7651b9",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "зш да не",
+      "price": 1200,
+      "title": "Зш да не - плава блуза",
+      "category": "блузи",
+      "img": "/product-images/shirts/yellow-women-shirt-01.jpg",
+      "images": [
+        "/product-images/shirts/yellow-women-shirt-01.jpg",
+        "/product-images/shirts/yellow-women-shirt-02.jpg",
+        "/product-images/shirts/yellow-women-shirt-03.jpg",
+        "/product-images/shirts/yellow-women-shirt-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "L",
+      "color": "yellow",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/07/03"
+    },
+    {
+      "id": "14730s61-2658-45c2-4s5t-1c92g39da2ed",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "наш",
+      "price": 2000,
+      "title": "Наш - розево палто",
+      "category": "палта и јакни",
+      "img": "/product-images/coatsAndJackets/pink-women-coat-01.jpg",
+      "images": [
+        "/product-images/coatsAndJackets/pink-women-coat-01.jpg",
+        "/product-images/coatsAndJackets/pink-women-coat-02.jpg",
+        "/product-images/coatsAndJackets/pink-women-coat-03.jpg",
+        "/product-images/coatsAndJackets/pink-women-coat-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "M",
+      "color": "pink",
+      "material": "100% Полиестер",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2022/09/05"
+    },
+
+    {
+      "id": "cce01a5d-222e-48c7-9806-0513e7717ae6",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "factory girl",
+      "price": 500,
+      "title": "Factory Girl кратка јакна",
+      "category": "палта и јакни",
+      "img": "/product-images/coatsAndJackets/black-women-coat-01.jpg",
+      "images": [
+        "/product-images/coatsAndJackets/black-women-coat-01.jpg",
+        "/product-images/coatsAndJackets/black-women-coat-02.jpg",
+        "/product-images/coatsAndJackets/black-women-coat-03.jpg",
+        "/product-images/coatsAndJackets/black-women-coat-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "XS",
+      "color": "black",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/03/04"
+    },
+    {
+      "id": "14739d3b-1161-45c2-beb2-1c92ed11a2ed",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "main days",
+      "price": 1000,
+      "title": "Main Days - розево палто",
+      "category": "палта и јакни",
+      "img": "/product-images/coatsAndJackets/pink-women-coat-01.jpg",
+      "images": [
+        "/product-images/coatsAndJackets/pink-women-coat-01.jpg",
+        "/product-images/coatsAndJackets/pink-women-coat-02.jpg",
+        "/product-images/coatsAndJackets/pink-women-coat-03.jpg",
+        "/product-images/coatsAndJackets/pink-women-coat-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "M",
+      "color": "pink",
+      "material": "100% Полиестер",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/12/03"
+    },
+    {
+      "id": "14739d91-1161-45o2-ces1-1c92kch01a2od",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "candle nest",
+      "price": 2800,
+      "title": "Candle Nest - сиво палто",
+      "category": "палта и јакни",
+      "img": "/product-images/coatsAndJackets/grey-women-jacket-01.jpg",
+      "images": [
+        "/product-images/coatsAndJackets/grey-women-jacket-01.jpg",
+        "/product-images/coatsAndJackets/grey-women-jacket-02.jpg",
+        "/product-images/coatsAndJackets/grey-women-jacket-03.jpg",
+        "/product-images/coatsAndJackets/grey-women-jacket-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "M",
+      "color": "grey",
+      "material": "100% Полиестер",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/03/25"
+    },
+    {
+      "id": "9490185d-a16b-4814-bfbf-cd02e519f0c6",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "нежно",
+      "price": 2000,
+      "title": "Нежно - зелен пролетен фустан",
+      "category": "фустани",
+      "img": "/product-images/dress/green-women-dress-01.jpg",
+      "images": [
+        "/product-images/dress/green-women-dress-01.jpg",
+        "/product-images/dress/green-women-dress-02.jpg",
+        "/product-images/dress/green-women-dress-03.jpg",
+        "/product-images/dress/green-women-dress-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "L",
+      "color": "green",
+      "material": "100% памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/11/10"
+    },
+    {
+      "id": "38ea2fc7-a2e9-4519-861b-7d6e47b47292",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "fraeil",
+      "price": 2500,
+      "title": "Fraeil виолетов фустан",
+      "category": "фустани",
+      "img": "/product-images/dress/purple-women-dress-01.jpg",
+      "images": [
+        "/product-images/dress/purple-women-dress-01.jpg",
+        "/product-images/dress/purple-women-dress-02.jpg",
+        "/product-images/dress/purple-women-dress-03.jpg",
+        "/product-images/dress/purple-women-dress-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "M",
+      "color": "purple",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/07/10"
+    },
+    {
+      "id": "37sg5x97-a2e9-2019-5xw5-7d6e54cp7002",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "beyond green",
+      "price": 2500,
+      "title": "Beyond Green - црн фустан",
+      "category": "фустани",
+      "img": "/product-images/dress/black-women-dress-01.jpg",
+      "images": [
+        "/product-images/dress/black-women-dress-01.jpg",
+        "/product-images/dress/black-women-dress-02.jpg",
+        "/product-images/dress/black-women-dress-03.jpg",
+        "/product-images/dress/black-women-dress-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "M",
+      "color": "black",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/06/23"
+    },
+    {
+      "id": "38ea2fc7-a2e9-4519-861b-7d6e47b47292",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "pinc partywear",
+      "price": 2200,
+      "title": "Pinc Partywear - виолетов фустан",
+      "category": "фустани",
+      "img": "/product-images/dress/purple-women-dress-01.jpg",
+      "images": [
+        "/product-images/dress/purple-women-dress-01.jpg",
+        "/product-images/dress/purple-women-dress-02.jpg",
+        "/product-images/dress/purple-women-dress-03.jpg",
+        "/product-images/dress/purple-women-dress-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "M",
+      "color": "purple",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/04/05"
+    },
+    {
+      "id": "c104040e-c322-4821-9fe1-5752777606d9",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "ред",
+      "price": 1700,
+      "title": "Ред - беж панталони",
+      "category": "панталони",
+      "img": "/product-images/trousers/women-trousers-01.jpg",
+      "images": [
+        "/product-images/trousers/women-trousers-01.jpg",
+        "/product-images/trousers/women-trousers-02.jpg",
+        "/product-images/trousers/women-trousers-03.jpg",
+        "/product-images/trousers/women-trousers-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "XL",
+      "color": "white",
+      "material": "100% Полиестер",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/10/05"
+    },
+    {
+      "id": "6e42a590-eac8-46a7-90df-1b51df0151b9",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "pinc partywear",
+      "price": 1500,
+      "title": "Pinc Partywear -  фармерки",
+      "category": "панталони",
+      "img": "/product-images/trousers/women-oversize-jeans-01.jpg",
+      "images": [
+        "/product-images/trousers/women-oversize-jeans-01.jpg",
+        "/product-images/trousers/women-oversize-jeans-02.jpg",
+        "/product-images/trousers/women-oversize-jeans-03.jpg",
+        "/product-images/trousers/women-oversize-jeans-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "XL",
+      "color": "grey",
+      "material": "100% Полиестер",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/06/14"
+    },
+    {
+      "id": "6e42b458-eac8-46a7-90df-1b51df3256b9",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "factory girl",
+      "price": 1700,
+      "title": "Factory Girl -  фармерки",
+      "category": "панталони",
+      "img": "/product-images/trousers/women-jeans-01.jpg",
+      "images": [
+        "/product-images/trousers/women-jeans-01.jpg",
+        "/product-images/trousers/women-jeans-02.jpg",
+        "/product-images/trousers/women-jeans-03.jpg",
+        "/product-images/trousers/women-jeans-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "XL",
+      "color": "blue",
+      "material": "100% Полиестер",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/02/10"
+    },
+    {
+      "id": "6e42a410-eac8-46a7-90df-1b51df0145sk",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "наш",
+      "price": 1900,
+      "title": "Наш -  траперки",
+      "category": "панталони",
+      "img": "/product-images/trousers/women-wide-leg-jeans-01.jpg",
+      "images": [
+        "/product-images/trousers/women-wide-leg-jeans-01.jpg",
+        "/product-images/trousers/women-wide-leg-jeans-02.jpg",
+        "/product-images/trousers/women-wide-leg-jeans-03.jpg",
+        "/product-images/trousers/women-wide-leg-jeans-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "XL",
+      "color": "blue",
+      "material": "100% Полиестер",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/06/05"
+    },
+    {
+      "id": "3ff4df2f-9386-40eb-8213-d621a0efe737",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "наш",
+      "price": 2000,
+      "title": "Наш - Vintage здолниште (сукња)",
+      "category": "здолништа и шорцеви",
+      "img": "/product-images/shortsAndSkirts/black-women-skirt-01.jpg",
+      "images": [
+        "/product-images/shortsAndSkirts/black-women-skirt-01.jpg",
+        "/product-images/shortsAndSkirts/black-women-skirt-02.jpg",
+        "/product-images/shortsAndSkirts/black-women-skirt-03.jpg",
+        "/product-images/shortsAndSkirts/black-women-skirt-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "XS",
+      "color": "black",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/09/15"
+    },
+    {
+      "id": "ca5c4350-505f-4aa2-a6f8-5597fdaf08a2",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "зш да не",
+      "price": 2500,
+      "title": "Зш да не - памучни шорцеви",
+      "category": "здолништа и шорцеви",
+      "img": "/product-images/shortsAndSkirts/white-women-shorts-01.jpg",
+      "images": [
+        "/product-images/shortsAndSkirts/white-women-shorts-01.jpg",
+        "/product-images/shortsAndSkirts/white-women-shorts-02.jpg",
+        "/product-images/shortsAndSkirts/white-women-shorts-03.jpg",
+        "/product-images/shortsAndSkirts/white-women-shorts-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "S",
+      "color": "white",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2022/09/05"
+    },
+    {
+      "id": "ca5c4350-4os8-8sf1-a584-5597fdaf08a2",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "factory girl",
+      "price": 1800,
+      "title": "Factory Girl - памучни шорцеви",
+      "category": "здолништа и шорцеви",
+      "img": "/product-images/shortsAndSkirts/black-women-skirt-01.jpg",
+      "images": [
+        "/product-images/shortsAndSkirts/black-women-skirt-01.jpg",
+        "/product-images/shortsAndSkirts/black-women-skirt-02.jpg",
+        "/product-images/shortsAndSkirts/black-women-skirt-03.jpg",
+        "/product-images/shortsAndSkirts/black-women-skirt-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "S",
+      "color": "black",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2022/06/08"
+    },
+    {
+      "id": "ca5c4350-230d-4s5g-a6f8-5597fdaf45s2",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "fraeil",
+      "price": 1500,
+      "title": "Fraeil - памучни шорцеви",
+      "category": "здолништа и шорцеви",
+      "img": "/product-images/shortsAndSkirts/grey-women-shorts-cotton-01.jpg",
+      "images": [
+        "/product-images/shortsAndSkirts/grey-women-shorts-cotton-01.jpg",
+        "/product-images/shortsAndSkirts/grey-women-shorts-cotton-02.jpg",
+        "/product-images/shortsAndSkirts/grey-women-shorts-cotton-03.jpg",
+        "/product-images/shortsAndSkirts/grey-women-shorts-cotton-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "S",
+      "color": "grey",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/08/11"
+    },
+    {
+      "id": "546acc94-5c32-4bdc-b7c9-867dfb3957e1",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "urma",
+      "price": 3100,
+      "title": "URMA фрижидерче за козметика",
+      "category": "фрижидер",
+      "img": "/product-images/product-08.png",
+      "images": [
+        "/product-images/product-08.png",
+        "/product-images/product-08.png",
+        "/product-images/product-08.png",
+        "/product-images/product-08.png"
+      ],
+      "description": "Ова мини фрижидерче служи за чување на сите козметички препарати што ги користиме секојдневно во нашата skin care рутина. Со чување на козметиката во ова фрижидерче и се продолжува рокот на траење. Дополнително, ладната температура спречува штетните бактерии да се активираат, а помага и при смирување на кожата и за намалување на надуеност на лицето.",
+      "color": "pink",
+      "material": "100% пластика",
+      "maintaining": "Ова фрижидерче се одржува си чистење со влажна крпа.",
+      "dateCreated": "2023/07/03"
+    },
+
+    {
+      "id": "70a2r590-eac8-46a7-90df-1a51df0151b9",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "gatta",
+      "price": 500,
+      "title": "Gatta - долна облека",
+      "category": "долна облека",
+      "img": "/product-images/underwear/black-women-underwear-01.jpg",
+      "images": [
+        "/product-images/underwear/black-women-underwear-01.jpg",
+        "/product-images/underwear/black-women-underwear-02.jpg",
+        "/product-images/underwear/black-women-underwear-03.jpg",
+        "/product-images/underwear/black-women-underwear-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "L",
+      "color": "black",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/04/17"
+    },
+    {
+      "id": "70a2r420-eac8-46a7-90df-1a51df7945b9",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "нежно",
+      "price": 1200,
+      "title": "Нежно - долна облека",
+      "category": "долна облека",
+      "img": "/product-images/underwear/blue-women-underwear-01.jpg",
+      "images": [
+        "/product-images/underwear/blue-women-underwear-01.jpg",
+        "/product-images/underwear/blue-women-underwear-02.jpg",
+        "/product-images/underwear/blue-women-underwear-03.jpg",
+        "/product-images/underwear/blue-women-underwear-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "L",
+      "color": "blue",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/04/17"
+    },
+    {
+      "id": "77b5e420-eac8-46a7-90df-1a032591045g7",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "ред",
+      "price": 800,
+      "title": "Ред - долна облека",
+      "category": "долна облека",
+      "img": "/product-images/underwear/green-women-underwear-01.jpg",
+      "images": [
+        "/product-images/underwear/green-women-underwear-01.jpg",
+        "/product-images/underwear/green-women-underwear-02.jpg",
+        "/product-images/underwear/green-women-underwear-03.jpg",
+        "/product-images/underwear/green-women-underwear-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "L",
+      "color": "green",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/04/17"
+    },
+    {
+      "id": "77x3d620-eac8-46a7-90df-1a0325ScGt25g7",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "factory girl",
+      "price": 700,
+      "title": "Factory Girl - долна облека",
+      "category": "долна облека",
+      "img": "/product-images/underwear/grey-women-underwear-01.jpg",
+      "images": [
+        "/product-images/underwear/grey-women-underwear-01.jpg",
+        "/product-images/underwear/grey-women-underwear-02.jpg",
+        "/product-images/underwear/grey-women-underwear-03.jpg",
+        "/product-images/underwear/grey-women-underwear-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено од материјал со текстура, се закопчува со патент.",
+      "sizeDescription": "Совет за величина: ова парче е направено од материјал кој не се растегнува. Одговара на наведената величина.",
+      "size": "L",
+      "color": "grey",
+      "material": "100% Памук",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на етикетата.",
+      "dateCreated": "2023/04/17"
+    },
+    {
+      "id": "70a2r590-eac8-46a7-90df-1a51GR0785B6",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "зш да не",
+      "price": 5000,
+      "title": "Зш да не - ланче",
+      "category": "accessories",
+      "subCategory": "накит",
+      "img": "/product-images/jewelry/women-necklace-01.jpg",
+      "images": [
+        "/product-images/jewelry/women-necklace-01.jpg",
+        "/product-images/jewelry/women-necklace-02.jpg",
+        "/product-images/jewelry/women-necklace-03.jpg",
+        "/product-images/jewelry/women-necklace-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено со љубов од нашите врвни мајстори, како привезок има цреши, но може да се замени со провезок по ваша желба.",
+      "color": "yellow",
+      "material": "100% Нерѓосувачки челик",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на упатството за употреба.",
+      "dateCreated": "2023/12/16"
+    },
+    {
+      "id": "70c2g590-eac8-46a7-90df-1a51KL0785B6",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "gatta",
+      "price": 500,
+      "title": "Gatta - прстенче",
+      "category": "accessories",
+      "subCategory": "накит",
+      "img": "/product-images/jewelry/women-ring-01.jpg",
+      "images": [
+        "/product-images/jewelry/women-ring-01.jpg",
+        "/product-images/jewelry/women-ring-02.jpg",
+        "/product-images/jewelry/women-ring-03.jpg",
+        "/product-images/jewelry/women-ring-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено со љубов од нашите врвни мајстори, како привезок има цреши, но може да се замени со провезок по ваша желба.",
+      "color": "yellow",
+      "material": "100% Нерѓосувачки челик",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на упатството за употреба.",
+      "dateCreated": "2023/12/16"
+    },
+    {
+      "id": "70v2q590-eac8-46b8-90gh-1a51KL0785B6",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "pinc partywear",
+      "price": 1500,
+      "title": "Pinc Partywear - обетки",
+      "category": "accessories",
+      "subCategory": "накит",
+      "img": "/product-images/jewelry/women-earring-01.jpg",
+      "images": [
+        "/product-images/jewelry/women-earring-01.jpg",
+        "/product-images/jewelry/women-earring-02.jpg",
+        "/product-images/jewelry/women-earring-03.jpg",
+        "/product-images/jewelry/women-earring-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено со љубов од нашите врвни мајстори, како привезок има цреши, но може да се замени со провезок по ваша желба.",
+      "color": "blue",
+      "material": "100% Нерѓосувачки челик",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на упатството за употреба.",
+      "dateCreated": "2023/12/16"
+    },
+    {
+      "id": "70v2q590-eac8-46b8-90gh-1a51LVC885B6",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "beyond green",
+      "price": 2200,
+      "title": "Beyond Green - белезица",
+      "category": "accessories",
+      "subCategory": "накит",
+      "img": "/product-images/jewelry/women-bracelet-01.jpg",
+      "images": [
+        "/product-images/jewelry/women-bracelet-01.jpg",
+        "/product-images/jewelry/women-bracelet-02.jpg",
+        "/product-images/jewelry/women-bracelet-03.jpg",
+        "/product-images/jewelry/women-bracelet-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено со љубов од нашите врвни мајстори, како привезок има цреши, но може да се замени со провезок по ваша желба.",
+      "color": "yellow",
+      "material": "100% Нерѓосувачки челик",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на упатството за употреба.",
+      "dateCreated": "2023/12/16"
+    },
+    {
+      "id": "70v2q590-eac8-46b8-90gh-1a51Lsj825B6",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "beyond green",
+      "price": 800,
+      "title": "Beyond Green - ташна",
+      "category": "accessories",
+      "subCategory": "ташни",
+      "img": "/product-images/bags/black-women-bag-01.jpg",
+      "images": [
+        "/product-images/bags/black-women-bag-01.jpg",
+        "/product-images/bags/black-women-bag-02.jpg",
+        "/product-images/bags/black-women-bag-03.jpg",
+        "/product-images/bags/black-women-bag-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено со љубов од нашите врвни мајстори, како привезок има цреши, но може да се замени со провезок по ваша желба.",
+      "color": "black",
+      "material": "100% Полиестер",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на упатството за употреба.",
+      "dateCreated": "2023/10/08"
+    },
+    {
+      "id": "05v2q960-eac8-51s2-9s2r-1a51Lsj825B6",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "ред",
+      "price": 900,
+      "title": "Ред - ташна",
+      "category": "accessories",
+      "subCategory": "ташни",
+      "img": "/product-images/bags/red-women-bag-01.jpg",
+      "images": [
+        "/product-images/bags/red-women-bag-01.jpg",
+        "/product-images/bags/red-women-bag-02.jpg",
+        "/product-images/bags/red-women-bag-03.jpg",
+        "/product-images/bags/red-women-bag-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено со љубов од нашите врвни мајстори, како привезок има цреши, но може да се замени со провезок по ваша желба.",
+      "color": "red",
+      "material": "100% Полиестер",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на упатството за употреба.",
+      "dateCreated": "2023/06/12"
+    },
+    {
+      "id": "05v2q960-eac8-0s2r-9s2r-1a52k0s825B6",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "fraeil",
+      "price": 1200,
+      "title": "Frail - ташна",
+      "category": "accessories",
+      "subCategory": "ташни",
+      "img": "/product-images/bags/green-women-bag-01.jpg",
+      "images": [
+        "/product-images/bags/green-women-bag-01.jpg",
+        "/product-images/bags/green-women-bag-02.jpg",
+        "/product-images/bags/green-women-bag-03.jpg",
+        "/product-images/bags/green-women-bag-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено со љубов од нашите врвни мајстори, како привезок има цреши, но може да се замени со провезок по ваша желба.",
+      "color": "green",
+      "material": "100% Полиестер",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на упатството за употреба.",
+      "dateCreated": "2022/03/05"
+    },
+    {
+      "id": "05v2q960-eac8-51s2-9s2r-1a56sksj825B6",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "fraeil",
+      "price": 1000,
+      "title": "Frail - ташна",
+      "category": "accessories",
+      "subCategory": "ташни",
+      "img": "/product-images/bags/pink-women-bag-01.jpg",
+      "images": [
+        "/product-images/bags/pink-women-bag-01.jpg",
+        "/product-images/bags/pink-women-bag-02.jpg",
+        "/product-images/bags/pink-women-bag-03.jpg",
+        "/product-images/bags/pink-women-bag-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено со љубов од нашите врвни мајстори, како привезок има цреши, но може да се замени со провезок по ваша желба.",
+      "color": "pink",
+      "material": "100% Полиестер",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на упатството за употреба.",
+      "dateCreated": "2023/04/13"
+    },
+    {
+      "id": "05v2q960-eac8-51s2-9s2r-1a5sf81o825B6",
+      "isFavourite": false,
+      "addToCart": false,
+      "brand": "зш да не",
+      "price": 1500,
+      "title": "Зш да не - ташна",
+      "category": "accessories",
+      "subCategory": "ташни",
+      "img": "/product-images/bags/white-women-bag-01.jpg",
+      "images": [
+        "/product-images/bags/white-women-bag-01.jpg",
+        "/product-images/bags/white-women-bag-02.jpg",
+        "/product-images/bags/white-women-bag-03.jpg",
+        "/product-images/bags/white-women-bag-04.jpg"
+      ],
+      "description": "Ова е vintage парче направено со љубов од нашите врвни мајстори, како привезок има цреши, но може да се замени со провезок по ваша желба.",
+      "color": "white",
+      "material": "100% Полиестер",
+      "maintaining": "Ова парче треба да се третира хемиски според инструкциите на упатството за употреба.",
+      "dateCreated": "2023/09/02"
+    }
+  ],
+
+  "gift_cards": [
+    {
+      "id": "0",
+      "addToCart": false,
+      "title": 500
+    },
+    {
+      "id": "1",
+      "addToCart": false,
+      "title": 1000
+    },
+    {
+      "id": "2",
+      "addToCart": false,
+      "title": 2000
+    },
+    {
+      "id": "3",
+      "addToCart": false,
+      "title": 2500
+    },
+    {
+      "id": "4",
+      "addToCart": false,
+      "title": 4000
+    }
+  ],
+
+  "users": [
+    {
+      "image": "/profile_img.jpg",
+      "name": "Blagoja",
+      "lastname": "Filiposki",
+      "email": "bfiliposki123@gmail.com",
+      "password": "qwe123",
+      "adress": "Kuzman Josifoski 123",
+      "contactNumber": "076740939",
+      "biography": "Јас сум Благоја, имам 25 години, од Прилеп сум, учам Brainster на академијата за Front-End програмирање."
+    }
+  ],
+
+  "localBrands": [
+    {
+      "id": 0,
+      "brandName": "pinc partywear",
+      "brand_image": "/localBrands/pincPartywear.png",
+      "first_content": "Концептот на Pinc Partywear се базира на неколку прашања:",
+      "li_elements": [
+        {
+          "id": 0,
+          "content": "Дали постои простор за етикетирања и табу во овој безобразно неетички свет?"
+        },
+        {
+          "id": 1,
+          "content": "Зошто фолирањето култура е поприфатено од искрениот отпор?"
+        },
+        {
+          "id": 2,
+          "content": "Дали треба да се срамиме од сопственото само за друг да биде мирен?"
+        },
+        {
+          "id": 3,
+          "content": "Дали ќе ни текне?"
+        }
+      ],
+      "second_content": "Зачувај го слободниот дух и биди тоа што си секогаш.",
+      "third_content": "Погледнете ги производите на Зш да не кои ги нудиме во Игралиште. Имаме доста голем избор на Pussy привезоци кои се кул и ултра феминистички, а.к.а. grl pwr."
+    },
+    {
+      "id": 1,
+      "brandName": "factory girl",
+      "brand_image": "/localBrands/factoryGirl.png",
+      "first_content": "Концептот на Factory Girl се базира на неколку прашања:",
+      "li_elements": [
+        {
+          "id": 0,
+          "content": "Дали постои простор за етикетирања и табу во овој безобразно неетички свет?"
+        },
+        {
+          "id": 1,
+          "content": "Зошто фолирањето култура е поприфатено од искрениот отпор?"
+        },
+        {
+          "id": 2,
+          "content": "Дали треба да се срамиме од сопственото само за друг да биде мирен?"
+        },
+        {
+          "id": 3,
+          "content": "Дали ќе ни текне?"
+        }
+      ],
+      "second_content": "Зачувај го слободниот дух и биди тоа што си секогаш.",
+      "third_content": "Погледнете ги производите на Зш да не кои ги нудиме во Игралиште. Имаме доста голем избор на Pussy привезоци кои се кул и ултра феминистички, а.к.а. grl pwr."
+    },
+    {
+      "id": 2,
+      "brandName": "main days",
+      "brand_image": "/localBrands/mainDays.png",
+      "first_content": "Концептот на Main Days се базира на неколку прашања:",
+      "li_elements": [
+        {
+          "id": 0,
+          "content": "Дали постои простор за етикетирања и табу во овој безобразно неетички свет?"
+        },
+        {
+          "id": 1,
+          "content": "Зошто фолирањето култура е поприфатено од искрениот отпор?"
+        },
+        {
+          "id": 2,
+          "content": "Дали треба да се срамиме од сопственото само за друг да биде мирен?"
+        },
+        {
+          "id": 3,
+          "content": "Дали ќе ни текне?"
+        }
+      ],
+      "second_content": "Зачувај го слободниот дух и биди тоа што си секогаш.",
+      "third_content": "Погледнете ги производите на Зш да не кои ги нудиме во Игралиште. Имаме доста голем избор на Pussy привезоци кои се кул и ултра феминистички, а.к.а. grl pwr."
+    },
+    {
+      "id": 3,
+      "brandName": "нежно",
+      "brand_image": "/localBrands/нежно.png",
+      "first_content": "Концептот на Нежно се базира на неколку прашања:",
+      "li_elements": [
+        {
+          "id": 0,
+          "content": "Дали постои простор за етикетирања и табу во овој безобразно неетички свет?"
+        },
+        {
+          "id": 1,
+          "content": "Зошто фолирањето култура е поприфатено од искрениот отпор?"
+        },
+        {
+          "id": 2,
+          "content": "Дали треба да се срамиме од сопственото само за друг да биде мирен?"
+        },
+        {
+          "id": 3,
+          "content": "Дали ќе ни текне?"
+        }
+      ],
+      "second_content": "Зачувај го слободниот дух и биди тоа што си секогаш.",
+      "third_content": "Погледнете ги производите на Зш да не кои ги нудиме во Игралиште. Имаме доста голем избор на Pussy привезоци кои се кул и ултра феминистички, а.к.а. grl pwr."
+    },
+    {
+      "id": 4,
+      "brandName": "ред",
+      "brand_image": "/localBrands/ред.png",
+      "first_content": "Концептот на Ред се базира на неколку прашања:",
+      "li_elements": [
+        {
+          "id": 0,
+          "content": "Дали постои простор за етикетирања и табу во овој безобразно неетички свет?"
+        },
+        {
+          "id": 1,
+          "content": "Зошто фолирањето култура е поприфатено од искрениот отпор?"
+        },
+        {
+          "id": 2,
+          "content": "Дали треба да се срамиме од сопственото само за друг да биде мирен?"
+        },
+        {
+          "id": 3,
+          "content": "Дали ќе ни текне?"
+        }
+      ],
+      "second_content": "Зачувај го слободниот дух и биди тоа што си секогаш.",
+      "third_content": "Погледнете ги производите на Зш да не кои ги нудиме во Игралиште. Имаме доста голем избор на Pussy привезоци кои се кул и ултра феминистички, а.к.а. grl pwr."
+    },
+    {
+      "id": 5,
+      "brandName": "наш",
+      "brand_image": "/localBrands/наш.png",
+      "first_content": "Концептот на Наш се базира на неколку прашања:",
+      "li_elements": [
+        {
+          "id": 0,
+          "content": "Дали постои простор за етикетирања и табу во овој безобразно неетички свет?"
+        },
+        {
+          "id": 1,
+          "content": "Зошто фолирањето култура е поприфатено од искрениот отпор?"
+        },
+        {
+          "id": 2,
+          "content": "Дали треба да се срамиме од сопственото само за друг да биде мирен?"
+        },
+        {
+          "id": 3,
+          "content": "Дали ќе ни текне?"
+        }
+      ],
+      "second_content": "Зачувај го слободниот дух и биди тоа што си секогаш.",
+      "third_content": "Погледнете ги производите на Зш да не кои ги нудиме во Игралиште. Имаме доста голем избор на Pussy привезоци кои се кул и ултра феминистички, а.к.а. grl pwr."
+    },
+    {
+      "id": 6,
+      "brandName": "зш да не",
+      "brand_image": "/localBrands/зшдане.png",
+      "first_content": "Концептот на @zshdane_ се базира на неколку прашања:",
+      "li_elements": [
+        {
+          "id": 0,
+          "content": "Дали постои простор за етикетирања и табу во овој безобразно неетички свет?"
+        },
+        {
+          "id": 1,
+          "content": "Зошто фолирањето култура е поприфатено од искрениот отпор?"
+        },
+        {
+          "id": 2,
+          "content": "Дали треба да се срамиме од сопственото само за друг да биде мирен?"
+        },
+        {
+          "id": 3,
+          "content": "Дали ќе ни текне?"
+        }
+      ],
+      "second_content": "Зачувај го слободниот дух и биди тоа што си секогаш.",
+      "third_content": "Погледнете ги производите на Зш да не кои ги нудиме во Игралиште. Имаме доста голем избор на Pussy привезоци кои се кул и ултра феминистички, а.к.а. grl pwr."
+    },
+    {
+      "id": 7,
+      "brandName": "fraeil",
+      "brand_image": "/localBrands/fraeil.png",
+      "first_content": "Концептот на Fraeil се базира на неколку прашања:",
+      "li_elements": [
+        {
+          "id": 0,
+          "content": "Дали постои простор за етикетирања и табу во овој безобразно неетички свет?"
+        },
+        {
+          "id": 1,
+          "content": "Зошто фолирањето култура е поприфатено од искрениот отпор?"
+        },
+        {
+          "id": 2,
+          "content": "Дали треба да се срамиме од сопственото само за друг да биде мирен?"
+        },
+        {
+          "id": 3,
+          "content": "Дали ќе ни текне?"
+        }
+      ],
+      "second_content": "Зачувај го слободниот дух и биди тоа што си секогаш.",
+      "third_content": "Погледнете ги производите на Зш да не кои ги нудиме во Игралиште. Имаме доста голем избор на Pussy привезоци кои се кул и ултра феминистички, а.к.а. grl pwr."
+    },
+    {
+      "id": 8,
+      "brandName": "urma",
+      "brand_image": "/localBrands/urma.png",
+      "first_content": "Концептот на Urma се базира на неколку прашања:",
+      "li_elements": [
+        {
+          "id": 0,
+          "content": "Дали постои простор за етикетирања и табу во овој безобразно неетички свет?"
+        },
+        {
+          "id": 1,
+          "content": "Зошто фолирањето култура е поприфатено од искрениот отпор?"
+        },
+        {
+          "id": 2,
+          "content": "Дали треба да се срамиме од сопственото само за друг да биде мирен?"
+        },
+        {
+          "id": 3,
+          "content": "Дали ќе ни текне?"
+        }
+      ],
+      "second_content": "Зачувај го слободниот дух и биди тоа што си секогаш.",
+      "third_content": "Погледнете ги производите на Зш да не кои ги нудиме во Игралиште. Имаме доста голем избор на Pussy привезоци кои се кул и ултра феминистички, а.к.а. grl pwr."
+    },
+    {
+      "id": 9,
+      "brandName": "candle nest",
+      "brand_image": "/localBrands/candleNest.png",
+      "first_content": "Концептот на Candle Nest се базира на неколку прашања:",
+      "li_elements": [
+        {
+          "id": 0,
+          "content": "Дали постои простор за етикетирања и табу во овој безобразно неетички свет?"
+        },
+        {
+          "id": 1,
+          "content": "Зошто фолирањето култура е поприфатено од искрениот отпор?"
+        },
+        {
+          "id": 2,
+          "content": "Дали треба да се срамиме од сопственото само за друг да биде мирен?"
+        },
+        {
+          "id": 3,
+          "content": "Дали ќе ни текне?"
+        }
+      ],
+      "second_content": "Зачувај го слободниот дух и биди тоа што си секогаш.",
+      "third_content": "Погледнете ги производите на Зш да не кои ги нудиме во Игралиште. Имаме доста голем избор на Pussy привезоци кои се кул и ултра феминистички, а.к.а. grl pwr."
+    },
+    {
+      "id": 10,
+      "brandName": "beyond green",
+      "brand_image": "/localBrands/beyondGreen.png",
+      "first_content": "Концептот на Beyond Green се базира на неколку прашања:",
+      "li_elements": [
+        {
+          "id": 0,
+          "content": "Дали постои простор за етикетирања и табу во овој безобразно неетички свет?"
+        },
+        {
+          "id": 1,
+          "content": "Зошто фолирањето култура е поприфатено од искрениот отпор?"
+        },
+        {
+          "id": 2,
+          "content": "Дали треба да се срамиме од сопственото само за друг да биде мирен?"
+        },
+        {
+          "id": 3,
+          "content": "Дали ќе ни текне?"
+        }
+      ],
+      "second_content": "Зачувај го слободниот дух и биди тоа што си секогаш.",
+      "third_content": "Погледнете ги производите на Зш да не кои ги нудиме во Игралиште. Имаме доста голем избор на Pussy привезоци кои се кул и ултра феминистички, а.к.а. grl pwr."
+    },
+    {
+      "id": 11,
+      "brandName": "gatta",
+      "brand_image": "/localBrands/gatta.png",
+      "first_content": "Концептот на Gatta се базира на неколку прашања:",
+      "li_elements": [
+        {
+          "id": 0,
+          "content": "Дали постои простор за етикетирања и табу во овој безобразно неетички свет?"
+        },
+        {
+          "id": 1,
+          "content": "Зошто фолирањето култура е поприфатено од искрениот отпор?"
+        },
+        {
+          "id": 2,
+          "content": "Дали треба да се срамиме од сопственото само за друг да биде мирен?"
+        },
+        {
+          "id": 3,
+          "content": "Дали ќе ни текне?"
+        }
+      ],
+      "second_content": "Зачувај го слободниот дух и биди тоа што си секогаш.",
+      "third_content": "Погледнете ги производите на Зш да не кои ги нудиме во Игралиште. Имаме доста голем избор на Pussy привезоци кои се кул и ултра феминистички, а.к.а. grl pwr."
+    }
+  ],
+
+  "about_page": {
+    "title1": "За Нас",
+    "title2": "Кои сме ние ?",
+    "first_content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "second_content": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "about_page_image": "./aboutpage/about.png"
+  },
+
+  "contact_page": {
+    "title1": "Контакт",
+    "title2": "Игралиште Дебар Маало",
+    "small_text": "Откриј ги нашите останати модни парчиња и колекции кои ги немаме изложено на нашата страна!",
+    "adress": "Костурски Херои бр.6/14 Дебар Маало, Скопје",
+    "contact": "Телефон за контакт:",
+    "contact_number": "+ 389 078 380 406",
+    "work_time": "Работно Време:",
+    "monday_to_friday": "Понеделник - Петок 12:00 - 19:00.",
+    "weekend": "Сабота 12:00 - 17:00",
+    "contact_page_image": "./aboutpage/about.png"
+  },
+
+  "FAQ_page": {
+    "title": "FAQ",
+    "stars_image": "./sparks.png",
+    "question": "Ова е примерок за прашања кои би биле на страната?",
+    "answer": "It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  },
+
+  "collapse_text": {
+    "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  }
+}
